@@ -43,7 +43,10 @@ Only if you choose to include it. You can publish a room as just
 "building + floor" and it's still useful to future residents.
 
 **Is it really free?**
-Yes — no account, no ads, no tracking. Product links open retailer websites.
+Yes — free for students, no account, no tracking, and that won't change.
+Product links open retailer websites and may earn the app a commission at no
+cost to you; if a product placement is ever sponsored, it's labeled. Fit-check
+results are never influenced by sponsorship.
 
 ---
 

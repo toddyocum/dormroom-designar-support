@@ -52,6 +52,23 @@ through your own iCloud account under Apple's privacy terms.
 - Retailer links open the retailer's website; their privacy policies apply
   there.
 
+
+## How the app makes money
+
+The app is free for students and always will be. To support development:
+
+- Product links may be affiliate links — if you buy something through one,
+  the retailer may pay the app a commission at no cost to you. The link
+  carries only an anonymous referral tag, never your personal information.
+- Product placements may someday be sponsored by retailers. Sponsored
+  placements are always labeled, and sponsorship never influences fit-check
+  results or room measurements — accuracy is not for sale.
+- Universities may someday pay to verify their rooms' measurements. That is
+  a service to them; it does not involve sharing your personal information.
+- Aggregated, de-identified statistics (for example, how many rooms have
+  been scanned at a campus) may be shared with partners. Nothing that
+  identifies you is ever sold or shared.
+
 ## Children
 
 The app is intended for users 13 and older.
