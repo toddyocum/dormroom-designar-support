@@ -38,6 +38,11 @@ Typically within an inch or two per wall. Every scan gets a review step
 where you can check any wall against a tape measure and correct it with a
 tap — mirrors and glass can occasionally confuse the sensor.
 
+**Do I have to publish my scan?**
+No. Scan a room, keep it private, and design away — private scans stay on
+your device and never reach the community database. Publishing is always an
+explicit choice you can make later, or never.
+
 **Is my room number shared?**
 Only if you choose to include it. You can publish a room as just
 "building + floor" and it's still useful to future residents.
