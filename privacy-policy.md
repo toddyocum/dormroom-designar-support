@@ -82,5 +82,6 @@ Changes to this policy will be posted at this page with a new effective date.
 
 ---
 
-*Maintained by [toddyocum](https://github.com/toddyocum). Hosted on GitHub
+*Dormroom DesignAR is operated by A2IDEA, LLC. Site maintained at
+[toddyocum](https://github.com/toddyocum); hosted on GitHub
 Pages.*

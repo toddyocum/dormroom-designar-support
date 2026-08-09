@@ -2,7 +2,8 @@
 
 *Effective: August 2026*
 
-By using Dormroom DesignAR you agree to these terms.
+Dormroom DesignAR is operated by A2IDEA, LLC. By using the app you
+agree to these terms.
 
 ## Community content
 
@@ -39,8 +40,8 @@ your content ends this license for that content.
 - Dormroom DesignAR is not affiliated with any university or housing
   office. Room data is community-contributed and is not an official
   housing record.
-- To the maximum extent permitted by law, Dormroom DesignAR's total
-  liability for any claim related to the service is limited to $50.
+- To the maximum extent permitted by law, A2IDEA, LLC's total liability
+  for any claim related to the service is limited to $50.
 - Don't abuse the service: no scraping, no automated publishing, no
   attempts to disrupt or reverse engineer it, no impersonation.
 
@@ -57,5 +58,5 @@ date. Questions or concerns: open an issue on
 
 ---
 
-*Maintained by [toddyocum](https://github.com/toddyocum). Hosted on GitHub
-Pages.*
+*Dormroom DesignAR is operated by A2IDEA, LLC. Site maintained at
+[toddyocum](https://github.com/toddyocum); hosted on GitHub Pages.*
