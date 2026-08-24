@@ -1,5 +1,7 @@
 # Dormroom DesignAR
 
+**[Now on the App Store — download free](https://apps.apple.com/app/dormroom-designar/id6800731723)**
+
 **Scan & plan your dorm room.**
 
 Scan any dorm room with a LiDAR iPhone, get a true-scale floor plan, design
